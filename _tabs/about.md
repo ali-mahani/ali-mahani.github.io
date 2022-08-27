@@ -4,9 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
 # Ali Abolhassanzadeh Mahani
 I'm currently a physics student at Sharif University of Technology. In my undergraduate life, I was introduced to Complex Systems and
 later to Computational Neuroscience. I am planning to transition to Computational Neuroscience for my higher education.

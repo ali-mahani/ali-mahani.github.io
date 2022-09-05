@@ -121,6 +121,10 @@ pwa:
 
 paginate: 10
 
+# Jekyll Compose configurations
+jeky_compose:
+  auto_open: true
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:

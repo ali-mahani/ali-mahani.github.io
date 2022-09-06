@@ -15,3 +15,12 @@ I seek novelty in Computational Neuroscience. I am especially amazed by Brain Co
 work in this area in the future.
 
 You can check out my CV [here](/assets/pdf/ali_mahani_cv.pdf).
+
+## Outside Academia
+I love playing squash. I started this sport when I was a junior at high school and I play whenever I have free time.
+
+I'm also a project-based Persian-to-English translator at [transnet](https://transnet.ir)
+
+I love to listen to music when I'm driving or programming. I have created playlists for every activity I do.
+
+I like to read novels and occasionally leave a review on [Goodreads](https://www.goodreads.com/user/show/69194805-ali-abolhassanzadeh-mahani).

@@ -13,7 +13,7 @@ I love to customize my working environments to the max. I use Vim and VS Code.
 I seek novelty in Computational Neuroscience. I am especially amazed by Brain Computer Interfaces and would love to
 work in this area in the future.
 
-You can check out my CV <!--[here](/assets/pdf/ali_mahani_cv.pdf).-->
+You can check out my CV [here](/assets/pdf/ali_mahani_cv.pdf).
 
 ## Outside Academia
 I love playing squash. I started this sport when I was a junior at high school and I play whenever I have free time.

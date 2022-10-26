@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Me
 icon: fas fa-info-circle
 order: 4
 ---
@@ -29,6 +29,22 @@ Another field I find very interesting is **Brain Computer Interfaces (BCI)**. Th
 understanding of neural coding and enables us to bridge the silicon-based machines with the carbon-based ones. It can help us develop
 more powerful robots, integrate AI and humans.
 I am most interested in developing these BCI devices for encoding and decoding neural data.
+
+## Skills
+I have been using Arch Linux since 2018 have learned a lot about the inner workings of this powerful OS during these years. I have customized my tools and you can 
+find them [here](https://github.com/ali-mahani/dotfiles).
+
+I have been using **Python** since my freshman year and later learned **C++** for my projects 
+that needed faster processing. I have experience working with **Tensorflow** and **PyTorch**.
+
+In my 4th year as an undergraduate I found out about the advantages of using **Julia** and I 
+have been learning to use it ever since.
+
+I tend to follow the Clean Code principles for each language I use. You can look at some 
+of my projects below to get a better sense of my coding style:
+- [Growing Critical -- Python and C++](https://github.com/ali-mahani/growing-critical)
+- [Computational Physics-Fall 2020 -- Python](https://github.com/ali-mahani/ComputationalPhysics-Fall2020)
+- [Fun Simulations -- Python](https://github.com/ali-mahani/fun-simulations)
 
 ## Outside Academia
 I love playing squash. I started this sport when I was a junior at high school and I play whenever I have free time.

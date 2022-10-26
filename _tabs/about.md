@@ -25,9 +25,10 @@ This area of **Bio-inspired Machine Learning** is what I believe to have the mos
 while retaining some degree of complexity of the neural behavior can lead to better understanding of human brain as a computational machine.\
 We have seen instances of bio-inspired algorithms in the past years, like Recurrent Neural Networks or Convolutional Neural Networks.
 
-Another field I find very interesting is **Brain Computer Interfaces (BCI)**. This field helps us develop technology that can help us better
-understand neural coding and enables us to bridge the silicon-based machines with the carbon-based ones. It can help us develop
-more powerful robots, integration of AI and humans and ultimately, Cyborgs :)))
+Another field I find very interesting is **Brain Computer Interfaces (BCI)**. This field helps us develop technology that can lead us to a better
+understanding of neural coding and enables us to bridge the silicon-based machines with the carbon-based ones. It can help us develop
+more powerful robots, integrate AI and humans.
+I am most interested in developing these BCI devices for encoding and decoding neural data.
 
 ## Outside Academia
 I love playing squash. I started this sport when I was a junior at high school and I play whenever I have free time.
